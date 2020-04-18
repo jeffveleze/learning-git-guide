@@ -15,7 +15,7 @@ What things you need to do/have in order to work with git?
 
 ## Hands on
 
-* Navigate to some directory in the command line and type `git clone git@github.com:jeffveleze/test-repository.git`
+* Navigate to some directory in the command line and type `git clone git@github.com:jeffveleze/teaching-git-repository.git`
 * Even if this repo is public reading access, editing is not, so please request access and i will allow you to edit it
 * Open one of the text files inside of the folder cloned and do some change on it. Save and exit
 * In the command line, do `git add .`, then `git commit -m "Any message which indicates the change"`, then `git push origin master`. You can see now your changes being published in the remote repository
